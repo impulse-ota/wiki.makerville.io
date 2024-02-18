@@ -319,6 +319,14 @@ notes: "HMI, Industrial enclosures, Electronic enclosures, etc."
     	url: "https://www.hnhcart.com",
     	address: "3rd Floor, Plot No. 2364/8, Patel Rd, Shadipur, New Delhi, Delhi 110008",
 		notes: "Electronic Components, EMS, etc."
+    },
+	{
+     	name: "ImpulseIoT Labs",
+     	type: "Firmware Dev",
+     	city: "Noida",
+     	url: "https://impulseiot.com",
+     	address: "OC 409, Gaur City Center, Greater Noida West, Uttar Pradesh 201306",
+		notes: "Domain: Automotive, Avionics,Medical, Industry-X"
     }
     // {
     // 	name: "",
