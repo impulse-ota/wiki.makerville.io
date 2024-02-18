@@ -326,7 +326,7 @@ notes: "HMI, Industrial enclosures, Electronic enclosures, etc."
      	city: "Noida",
      	url: "https://impulseiot.com",
      	address: "OC 409, Gaur City Center, Greater Noida West, Uttar Pradesh 201306",
-		notes: "Domain: Automotive, Avionics,Medical, Industry-X"
+		notes: "Domain: Automotive, Avionics, Medical, Industry-X"
     }
     // {
     // 	name: "",
